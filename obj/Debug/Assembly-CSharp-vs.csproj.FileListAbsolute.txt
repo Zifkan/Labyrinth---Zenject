@@ -1,0 +1,48 @@
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEditor.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Mono.Cecil.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Unity.DataContract.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.xml
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEditor.xml
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Test\Labyrinth\Labyrinth\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Test\Labyrinth\Labyrinth\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\Test\Labyrinth\Labyrinth\obj\Debug\Assembly-CSharp.dll
+E:\Test\Labyrinth\Labyrinth\obj\Debug\Assembly-CSharp.pdb
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEditor.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Mono.Cecil.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Unity.DataContract.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.xml
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEditor.xml
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\obj\Debug\Assembly-CSharp.dll
+D:\Test\Labyrinth - Zenject\Labyrinth-Zenject\obj\Debug\Assembly-CSharp.pdb

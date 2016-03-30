@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Labyrinth-Zenject.CSharp", "UnityVS.Labyrinth-Zenject.CSharp.csproj", "{313D254B-2789-B3DD-AA22-2C74D676A3DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Labyrinth-Zenject.CSharp.Editor", "UnityVS.Labyrinth-Zenject.CSharp.Editor.csproj", "{6FC4CE2E-FC49-243F-E3D5-0274A44C462E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313D254B-2789-B3DD-AA22-2C74D676A3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313D254B-2789-B3DD-AA22-2C74D676A3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313D254B-2789-B3DD-AA22-2C74D676A3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313D254B-2789-B3DD-AA22-2C74D676A3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC4CE2E-FC49-243F-E3D5-0274A44C462E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC4CE2E-FC49-243F-E3D5-0274A44C462E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC4CE2E-FC49-243F-E3D5-0274A44C462E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC4CE2E-FC49-243F-E3D5-0274A44C462E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
